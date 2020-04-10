@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace courseProject.Model
+{
+    class cP 
+    {
+        public void time()
+        {
+            int year;
+            int month;
+            int day;
+            int hour ;
+        }
+        public void person()
+        {
+            string firstName;
+            string lastName;
+            string userName;
+            string password;
+        }
+        public void level()
+        {
+            int ranking;
+            int access ;
+        }
+        public void books()
+        {
+            string author;
+            string title;
+            int edition;
+            int date;
+        }
+        public void courses()
+        {
+            string subject;
+        }
+        public void simulator()
+        {
+            int score;
+            int accuracy;
+        }
+    }
+}
